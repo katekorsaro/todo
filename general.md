@@ -1,0 +1,5 @@
+# broad topics
+- [ ] learn rust
+- [ ] learn linux
+- [ ] project: budger
+- [ ] project: 2d6 tales
