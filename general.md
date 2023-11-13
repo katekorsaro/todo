@@ -1,14 +1,15 @@
 # broad topics
 
-- Investigations
-	- [ ] investigate surrealdb
-	- [ ] investigate ipfs
-	- [ ] investigate mullvad
-- learning
-	- [ ] learn neovim
-	- [ ] learn rust
-	- [ ] learn linux
+## investigations
+- [ ] investigate surrealdb
+- [ ] investigate ipfs
+- [ ] investigate mullvad
 
-- complex projects
-	- [ ] project: budgr
-	- [ ] project: 2d6 tales
+## learning
+- [ ] learn neovim
+- [ ] learn rust
+- [ ] learn linux
+
+## complex projects
+- [ ] project: budgr
+- [ ] project: 2d6 tales
