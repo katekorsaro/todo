@@ -4,3 +4,5 @@
 - [ ] project: budger
 - [ ] project: 2d6 tales
 - [ ] learn neovim
+- [ ] investigate surrealdb
+- [ ] investigate ipfs
