@@ -1,9 +1,9 @@
 # broad topics
 
 ## investigations
-- [ ] investigate surrealdb
 - [ ] investigate ipfs
-- [ ] investigate mullvad
+  - [ ] investigate further web3.storage and filebase
+- [ ] investigate how to create some sort of Linux Association
 
 ## learning
 - [ ] learn neovim
