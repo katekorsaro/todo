@@ -9,6 +9,7 @@
 - [ ] learn neovim
 - [ ] learn rust
 - [ ] learn linux
+- [ ] learn python
 
 ## complex projects
 - [ ] project: budgr
